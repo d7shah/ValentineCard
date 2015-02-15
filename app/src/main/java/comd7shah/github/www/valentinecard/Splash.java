@@ -13,7 +13,7 @@ public class Splash extends Activity {
 
     //Set the time the splash screen time will take
 
-    private static int splashInterval = 4000;
+    private static int splashInterval = 3000;
 
 
     @Override
