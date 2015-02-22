@@ -14,7 +14,7 @@ public class Card extends Activity implements View.OnClickListener {
     TextView txtOutput;
     ImageButton imagebutton2;
 
-    GifView gifView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,7 +32,7 @@ public class Card extends Activity implements View.OnClickListener {
 
         txtOutput.setText(name);
 
-        gifView = (GifView) findViewById(R.id.gif_view);
+
 
     }
 

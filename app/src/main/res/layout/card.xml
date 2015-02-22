@@ -4,11 +4,6 @@
     android:layout_height="fill_parent"
     android:background="#f20058">
 
-    <com.example.playanimatedgif.GifView
-        android:id="@+id/gif_view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
